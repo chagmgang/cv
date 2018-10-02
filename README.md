@@ -113,6 +113,12 @@ Make deep learning based rest api with django framework for recommendation syste
 
 (2018 ~ ), Plani, Researcher                                                                      
 
+## Education
+
+Machine Learning Crash Course(구글 머신러닝 단기집중 과정) 이수
+
+Machine Learning with Tensorflow on Google Cloud Platform(Coursera)  ~ ing
+
 ## Paper
 
 [SMCSPO Based Force Estimation for Jetting Rate Control of 3D Printer Nozzle to Build a House](https://link.springer.com/chapter/10.1007/978-3-319-22879-2_5)
