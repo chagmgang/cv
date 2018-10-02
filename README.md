@@ -29,9 +29,9 @@ OS - MacOS, Window, Ubuntu 16.04
 
 ### Reinforcement Learning with tensorflow
 
-[Policy Gradient algorithm implementation][https://github.com/chagmgang/OnlyPGRL/tree/master/policy_gradient]
+![Policy Gradient algorithm implementation][https://github.com/chagmgang/OnlyPGRL/tree/master/policy_gradient]
 
-[Actor Critic algorithm implementation][https://github.com/chagmgang/OnlyPGRL/tree/master/actor_critic]
+![Actor Critic algorithm implementation][https://github.com/chagmgang/OnlyPGRL/tree/master/actor_critic]
 
 [Trust Region Policy Optimization implementation][https://github.com/chagmgang/OnlyPGRL/tree/master/proximal_policy_optimization]
 
