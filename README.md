@@ -12,6 +12,8 @@ Email : chagmgang@gmail.com
 
 Phone : 010-3883-5964
 
+Interested in : Reinforcement Learning, NLP with Deep Learning, Tensorflow Deploy
+
 ## Possess technology
 
 Programming Language - Python, Javascript(Only React)
@@ -110,3 +112,17 @@ Korea Institute of Industrial Technology(한국생산기술연구원), Researche
 Korea Advanced Instituted of Science and Technology, Researcher                        (2017 ~ 2018)
 
 Plani, Researcher                                                                      (2018 ~ )
+
+## Paper
+
+[SMCSPO Based Force Estimation for Jetting Rate Control of 3D Printer Nozzle to Build a House](https://link.springer.com/chapter/10.1007/978-3-319-22879-2_5)
+
+[Reaction Force Estimation of Hydraulic Servo System Using Sliding Perturbation Observer](https://ieeexplore.ieee.org/document/7222800)
+
+[Evaluation of a Possibility of Estimation of Reaction Force of Simple Hydraulic System using Sliding Perturbation Observer](https://ieeexplore.ieee.org/abstract/document/7364612)
+
+[슬라이딩 섭동 관측기를 이용한 유압 서보 시스템의 반력 추정](https://www.dbpia.co.kr/Journal/ArticleDetail/NODE06358154?TotalCount=0&Seq=3&isIdentifyAuthor=1&Collection=0&isFullText=0&specificParam=0&SearchMethod=0&Page=1&PageSize=20)
+
+[Robust Control Scheme Based Reaction Force Estimation and Bilateral Control of Hydraulic Servo Robot](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=837bd5a1b8e9fdb4ffe0bdc3ef48d419)
+
+[A Study on Deep Learning Based Sauvegrain Method for Measurement of Puberty Bone Age](https://arxiv.org/abs/1809.06965)
