@@ -103,15 +103,15 @@ Make deep learning based rest api with django framework for recommendation syste
 
 ## History
 
-Pusan National University(부산대학교), Mechanical Engineering, Undergraduate              (2010 ~ 2014)
+(2010 ~ 2014), Pusan National University(부산대학교), Mechanical Engineering, Undergraduate              
 
-Pusan National University(부산대학교), Mechanical Engineering, Robotics, Master Degree    (2014 ~ 2016)
+(2014 ~ 2016), Pusan National University(부산대학교), Mechanical Engineering, Robotics, Master Degree    
 
-Korea Institute of Industrial Technology(한국생산기술연구원), Researcher                    (2016 ~ 2017)
+(2016 ~ 2017), Korea Institute of Industrial Technology(한국생산기술연구원), Researcher                    
 
-Korea Advanced Instituted of Science and Technology, Researcher                        (2017 ~ 2018)
+(2017 ~ 2018), Korea Advanced Instituted of Science and Technology, Researcher                        
 
-Plani, Researcher                                                                      (2018 ~ )
+(2018 ~ ), Plani, Researcher                                                                      
 
 ## Paper
 
