@@ -61,7 +61,7 @@
 
 * [Distributional Reinforcement Learning with Quantile Regression(QR-DQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
 
-[Implicit Quantile Networks for Distributional Reinforcement Learning(IQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
+* [Implicit Quantile Networks for Distributional Reinforcement Learning(IQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
 
 #### Text(word, document) Embedding & Sequential Deep Learning
 
