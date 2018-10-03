@@ -61,7 +61,17 @@ OS - MacOS, Window, Ubuntu 16.04
 
 * [Distributional Reinforcement Learning with Quantile Regression(QR-DQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
 
-* [Implicit Quantile Networks for Distributional Reinforcement Learning(IQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
+[Implicit Quantile Networks for Distributional Reinforcement Learning(IQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
+
+#### Text(word, document) Embedding & Sequential Deep Learning
+
+* Word Embedding with [tensorflow](https://github.com/chagmgang/text_embedding_tensorflow/tree/master/word2vec), [gensim](https://github.com/chagmgang/konlpyDoc2vecNeuralNet)
+
+* Document Embedding with [tensorflow](https://github.com/chagmgang/text_embedding_tensorflow/tree/master/doc2vec), [gensim](https://github.com/chagmgang/konlpyDoc2vecNeuralNet)
+
+* [Sequence to Sequence Learning with Neural Networks](https://github.com/chagmgang/Seq2Seq_Series/tree/master/seq2seq)
+
+* [Effective Approaches to Attention-based  Neural Machine Translation](https://github.com/chagmgang/Seq2Seq_Series/tree/master/attention)
 
 ### Reinforcement Learning in StarCraft II
 
@@ -76,16 +86,6 @@ OS - MacOS, Window, Ubuntu 16.04
 [DeepMind Version of CollectMineralShards Proximal Policy Optimization](https://github.com/sc2-korean-level/MoveToBeacon/tree/master/collectMineralShards)
 
 [Discription of Reinforcement Learning in StarCraft II](https://chris-chris.gitbook.io/sc2-korean-level)
-
-### Text(word, document) Embedding & Sequential Deep Learning
-
-Word Embedding with [tensorflow](https://github.com/chagmgang/text_embedding_tensorflow/tree/master/word2vec), [gensim](https://github.com/chagmgang/konlpyDoc2vecNeuralNet)
-
-Document Embedding with [tensorflow](https://github.com/chagmgang/text_embedding_tensorflow/tree/master/doc2vec), [gensim](https://github.com/chagmgang/konlpyDoc2vecNeuralNet)
-
-[Sequence to Sequence Learning with Neural Networks](https://github.com/chagmgang/Seq2Seq_Series/tree/master/seq2seq)
-
-[Effective Approaches to Attention-based  Neural Machine Translation](https://github.com/chagmgang/Seq2Seq_Series/tree/master/attention)
 
 ### Deploy Tensorflow
 
