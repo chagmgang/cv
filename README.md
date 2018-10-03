@@ -113,15 +113,15 @@ Make deep learning based rest api with django framework for recommendation syste
 
 (2016 ~ 2017), Korea Institute of Industrial Technology(한국생산기술연구원), Researcher                
 
-⋅⋅⋅Development Embedded based IOT machines(Embedded Design, Programming, Data Collections)
+&nbsp;&nbsp;&nbsp;&nbsp;Development Embedded based IOT machines(Embedded Design, Programming, Data Collections)
 
 (2017 ~ 2018), Korea Advanced Instituted of Science and Technology, Researcher            
 
-⋅⋅⋅Development Embedded based Robotics to used as Rehabilitation robot
+&nbsp;&nbsp;&nbsp;&nbsp;Development Embedded based Robotics to used as Rehabilitation robot
 
 (2018 ~ ), Plani, Researcher  
 
-⋅⋅⋅Development Recommandation Algorithm using Deep Learning Methodology
+&nbsp;&nbsp;&nbsp;&nbsp;Development Recommandation Algorithm using Deep Learning Methodology
 
 ## Education
 
