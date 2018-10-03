@@ -31,35 +31,37 @@ OS - MacOS, Window, Ubuntu 16.04
 
 ## Project
 
-### Reinforcement Learning with tensorflow
+### Paper Implementation
 
-[Policy Gradient algorithm implementation](https://github.com/chagmgang/OnlyPGRL/tree/master/policy_gradient)
+#### Reinforcement Learning with tensorflow
 
-[Actor Critic algorithm implementation](https://github.com/chagmgang/OnlyPGRL/tree/master/actor_critic)
+* [Policy Gradient algorithm implementation](https://github.com/chagmgang/OnlyPGRL/tree/master/policy_gradient)
 
-[Trust Region Policy Optimization implementation](https://github.com/chagmgang/OnlyPGRL/tree/master/proximal_policy_optimization)
+* [Actor Critic algorithm implementation](https://github.com/chagmgang/OnlyPGRL/tree/master/actor_critic)
 
-[Proximal Policy Optimization implementation](https://github.com/chagmgang/OnlyPGRL/tree/master/policy_optimization)
+* [Trust Region Policy Optimization implementation](https://github.com/chagmgang/OnlyPGRL/tree/master/proximal_policy_optimization)
 
-[Deep Q Network(Nature 2015) implementation](https://github.com/chagmgang/OnlyDQNRL/tree/master/dqn)
+* [Proximal Policy Optimization implementation](https://github.com/chagmgang/OnlyPGRL/tree/master/policy_optimization)
 
-[Double DQN implementation](https://github.com/chagmgang/OnlyDQNRL/tree/master/double_dqn)
+* [Deep Q Network(Nature 2015) implementation](https://github.com/chagmgang/OnlyDQNRL/tree/master/dqn)
 
-[Dueling DQN implementation](https://github.com/chagmgang/OnlyDQNRL/tree/master/dueling_dqn)
+* [Double DQN implementation](https://github.com/chagmgang/OnlyDQNRL/tree/master/double_dqn)
 
-[Double Dueling DQN implementation](https://github.com/chagmgang/OnlyDQNRL/tree/master/dd_dqn)
+* [Dueling DQN implementation](https://github.com/chagmgang/OnlyDQNRL/tree/master/dueling_dqn)
 
-[Prioritized Experience Replay](https://github.com/chagmgang/OnlyDQNRL/tree/master/DQN_PER)
+* [Double Dueling DQN implementation](https://github.com/chagmgang/OnlyDQNRL/tree/master/dd_dqn)
 
-[Doule Dueling DQN with Prioritized Experience Replay](https://github.com/chagmgang/OnlyDQNRL/tree/master/DQN_PER)
+* [Prioritized Experience Replay](https://github.com/chagmgang/OnlyDQNRL/tree/master/DQN_PER)
 
-[Generative Adversarial Imitation Learning](https://github.com/chagmgang/gail/tree/master/gail_cartpole)
+* [Doule Dueling DQN with Prioritized Experience Replay](https://github.com/chagmgang/OnlyDQNRL/tree/master/DQN_PER)
 
-[Distributional Perspective on Reinforcement Learning(C51)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
+* [Generative Adversarial Imitation Learning](https://github.com/chagmgang/gail/tree/master/gail_cartpole)
 
-[Distributional Reinforcement Learning with Quantile Regression(QR-DQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
+* [Distributional Perspective on Reinforcement Learning(C51)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
 
-[Implicit Quantile Networks for Distributional Reinforcement Learning(IQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
+* [Distributional Reinforcement Learning with Quantile Regression(QR-DQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
+
+* [Implicit Quantile Networks for Distributional Reinforcement Learning(IQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
 
 ### Reinforcement Learning in StarCraft II
 
@@ -121,7 +123,7 @@ Machine Learning Crash Course(구글 머신러닝 단기집중 과정) 이수
 
 Machine Learning with Tensorflow on Google Cloud Platform(Coursera)  ~ ing
 
-## Paper
+## Publication
 
 [SMCSPO Based Force Estimation for Jetting Rate Control of 3D Printer Nozzle to Build a House](https://link.springer.com/chapter/10.1007/978-3-319-22879-2_5)
 
