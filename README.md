@@ -105,17 +105,23 @@ Make deep learning based rest api with django framework for recommendation syste
 
 [Member of PG Travel](https://reinforcement-learning-kr.github.io/2018/06/29/0_pg-travel-guide/)
 
-## History
+## Footage
 
 (2010 ~ 2014), Pusan National University(부산대학교), Mechanical Engineering, Undergraduate              
 
 (2014 ~ 2016), Pusan National University(부산대학교), Mechanical Engineering, Robotics, Master Degree    
 
-(2016 ~ 2017), Korea Institute of Industrial Technology(한국생산기술연구원), Researcher                    
+(2016 ~ 2017), Korea Institute of Industrial Technology(한국생산기술연구원), Researcher                
 
-(2017 ~ 2018), Korea Advanced Instituted of Science and Technology, Researcher                        
+** Development Embedded based IOT machines(Embedded Design, Programming, Data Collections)
 
-(2018 ~ ), Plani, Researcher                                                                      
+(2017 ~ 2018), Korea Advanced Instituted of Science and Technology, Researcher            
+
+** Development Embedded based Robotics to used as Rehabilitation robot
+
+(2018 ~ ), Plani, Researcher  
+
+** Development Recommandation Algorithm using Deep Learning Methodology
 
 ## Education
 
