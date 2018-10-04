@@ -73,6 +73,12 @@
 
 * [Effective Approaches to Attention-based  Neural Machine Translation](https://github.com/chagmgang/Seq2Seq_Series/tree/master/attention)
 
+#### Generative Model
+
+* [Generative Adversarial Network](https://github.com/chagmgang/GAN_Series/tree/master/Generative_Adversarial_Network)
+
+* [Conditional Generative Adversarial Network](https://github.com/chagmgang/GAN_Series/tree/master/Conditional_Generative_Adversarial_Network)
+
 ### Reinforcement Learning in StarCraft II
 
 * [Atari Version of Generative Adverarial Imitation Learning on MoveTobeacon](https://github.com/chagmgang/gail/tree/master/gail_move2beacon)
