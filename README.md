@@ -4,9 +4,11 @@
 
 * 이름: 차금강(Cha Keum Gang)
 
-* Github: https://github.com/chagmgang
+* Github : https://github.com/chagmgang
 
-* Facebook: https://www.facebook.com/profile.php?id=100002147815509
+* Facebook : https://www.facebook.com/profile.php?id=100002147815509
+
+* blog : [chagmgang.github.io](https://chagmgang.github.io)
 
 * Email : chagmgang@gmail.com
 
