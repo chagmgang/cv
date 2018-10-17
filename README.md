@@ -8,7 +8,7 @@
 
 * Facebook : https://www.facebook.com/profile.php?id=100002147815509
 
-* blog : [chagmgang.github.io](https://chagmgang.github.io)
+* blog : [https://chagmgang.github.io](https://chagmgang.github.io)
 
 * Email : chagmgang@gmail.com
 
