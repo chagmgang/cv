@@ -43,7 +43,9 @@
 
 * [Trust Region Policy Optimization implementation](https://github.com/chagmgang/OnlyPGRL/tree/master/proximal_policy_optimization)
 
-* [Proximal Policy Optimization implementation](https://github.com/chagmgang/OnlyPGRL/tree/master/policy_optimization)
+* [Proximal Policy Optimization implementation](https://github.com/chagmgang/OnlyPGRL/blob/master/policy_optimization/n_thread.py)
+
+* [Multi Thread Proximal Policy Optimization implementation](https://github.com/chagmgang/OnlyPGRL/blob/master/policy_optimization/y_thread.py)
 
 * [Deep Q Network(Nature 2015) implementation](https://github.com/chagmgang/OnlyDQNRL/tree/master/dqn)
 
