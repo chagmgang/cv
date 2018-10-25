@@ -133,6 +133,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Development Recommandation Algorithm using Deep Learning Methodology
 
+* [IBS IPBIZ](https://ipbiz.ibs.re.kr/)
+
 ## Education
 
 * Machine Learning Crash Course(구글 머신러닝 단기집중 과정) 이수
