@@ -137,7 +137,7 @@
 
 * Machine Learning Crash Course(구글 머신러닝 단기집중 과정) 이수
 
-* Machine Learning with Tensorflow on Google Cloud Platform(Coursera) 이수
+* [Machine Learning with Tensorflow on Google Cloud Platform(Coursera)]() 이수
 
 ## Publication
 
