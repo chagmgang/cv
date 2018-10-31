@@ -22,7 +22,7 @@
 
 * Programming Language - Python, Javascript(Only React)
 
-* Framework - Django, Tensorflow, React
+* Framework - Django, Tensorflow, Pytorch, React
 
 * DevOps - Github, Bitbucket
 
