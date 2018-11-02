@@ -67,6 +67,8 @@
 
 * [Implicit Quantile Networks for Distributional Reinforcement Learning(IQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
 
+* [PPO + Exploration with Random Network Distillation](https://github.com/chagmgang/torch_rl/tree/master/Proximal_Policy_Optimization_Curiosity)
+
 #### Text(word, document) Embedding & Sequential Deep Learning
 
 * Word Embedding with [tensorflow](https://github.com/chagmgang/text_embedding_tensorflow/tree/master/word2vec), [gensim](https://github.com/chagmgang/konlpyDoc2vecNeuralNet)
