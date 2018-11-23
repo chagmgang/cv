@@ -85,6 +85,8 @@
 
 * [Conditional Generative Adversarial Network](https://github.com/chagmgang/GAN_Series/tree/master/Conditional_Generative_Adversarial_Network)
 
+* [Deep Convolutional Generative Adversarial Networks](https://github.com/chagmgang/GAN_Series/tree/master/Deep_Convolutional_Generative_Adversarial_Network)
+
 ### Reinforcement Learning in StarCraft II
 
 * [Atari Version of Generative Adverarial Imitation Learning on MoveTobeacon](https://github.com/chagmgang/gail/tree/master/gail_move2beacon)
