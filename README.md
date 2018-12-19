@@ -67,7 +67,7 @@
 
 * [Implicit Quantile Networks for Distributional Reinforcement Learning(IQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
 
-* [PPO + Exploration with Random Network Distillation](https://github.com/chagmgang/torch_rl/tree/master/Proximal_Policy_Optimization_Curiosity)
+* [PPO + Intrinsic Curiosity Modules](https://github.com/chagmgang/pytorch_ppo_rl)
 
 #### Text(word, document) Embedding & Sequential Deep Learning
 
