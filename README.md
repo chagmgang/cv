@@ -121,19 +121,19 @@
 
 ## Footage
 
-* (2010 ~ 2014), Pusan National University(부산대학교), Mechanical Engineering, Undergraduate              
+* (2010.03 ~ 2014.02), Pusan National University(부산대학교), Mechanical Engineering, Undergraduate              
 
-* (2014 ~ 2016), Pusan National University(부산대학교), Mechanical Engineering, Robotics, Master Degree    
+* (2014.03 ~ 2016.02), Pusan National University(부산대학교), Mechanical Engineering, Robotics, Master Degree    
 
-* (2016 ~ 2017), Korea Institute of Industrial Technology(한국생산기술연구원), Researcher                
+* (2016.07 ~ 2017.03), Korea Institute of Industrial Technology(한국생산기술연구원), Researcher                
 
 &nbsp;&nbsp;&nbsp;&nbsp;Development Embedded based IOT machines(Embedded Design, Programming, Data Collections)
 
-* (2017 ~ 2018), Korea Advanced Instituted of Science and Technology, Researcher            
+* (2016.10 ~ 2017.09), Korea Advanced Instituted of Science and Technology, Researcher            
 
 &nbsp;&nbsp;&nbsp;&nbsp;Development Embedded based Robotics to used as Rehabilitation robot
 
-* (2018 ~ ), Plani, Researcher  
+* (2018.01 ~ ), Plani, Researcher  
 
 &nbsp;&nbsp;&nbsp;&nbsp;Development Recommandation Algorithm using Deep Learning Methodology
 
