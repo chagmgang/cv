@@ -156,3 +156,19 @@
 * [Robust Control Scheme Based Reaction Force Estimation and Bilateral Control of Hydraulic Servo Robot](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=837bd5a1b8e9fdb4ffe0bdc3ef48d419)
 
 * [A Study on Deep Learning Based Sauvegrain Method for Measurement of Puberty Bone Age](https://arxiv.org/abs/1809.06965)
+
+## Talk
+
+* 2018.06 - DLCAT
+
+* 2018.07 - 에이전트를 부탁해
+
+* 2018.08 - 인공지능 비즈니스 개발 컨퍼런스 2018
+
+* 2018.09 - Reinforcement Learning Korea
+
+* 2018.10 - 대덕대학교
+
+* 2018.11 - IBS
+
+* 2018.01 - Pytorch KR DevCon 2019
