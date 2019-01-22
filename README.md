@@ -135,11 +135,11 @@
 
 * (2016.10 ~ 2017.09), Korea Advanced Instituted of Science and Technology, Researcher            
 
-&nbsp;&nbsp;&nbsp;&nbsp;Development Embedded based Robotics to used as Rehabilitation robot
+&nbsp;&nbsp;&nbsp;&nbsp;Development Recommandation Algorithm using Deep Learning Methodology
 
 * (2018.01 ~ ), Plani, Researcher  
 
-&nbsp;&nbsp;&nbsp;&nbsp;Development Recommandation Algorithm using Deep Learning Methodology
+&nbsp;&nbsp;&nbsp;&nbsp;Development Embedded based Robotics to used as Rehabilitation robot
 
 ## Education
 
