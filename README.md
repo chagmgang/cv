@@ -131,15 +131,15 @@
 
 * (2016.07 ~ 2017.03), Korea Institute of Industrial Technology(한국생산기술연구원), Researcher                
 
-&nbsp;&nbsp;&nbsp;&nbsp;Development Embedded based IOT machines(Embedded Design, Programming, Data Collections)
+&nbsp;&nbsp;&nbsp;&nbsp;Development Embedded based Robotics to used as Rehabilitation robot
 
 * (2016.10 ~ 2017.09), Korea Advanced Instituted of Science and Technology, Researcher            
 
-&nbsp;&nbsp;&nbsp;&nbsp;Development Recommandation Algorithm using Deep Learning Methodology
+&nbsp;&nbsp;&nbsp;&nbsp;Development Embedded based IOT machines(Embedded Design, Programming, Data Collections)
 
 * (2018.01 ~ ), Plani, Researcher  
 
-&nbsp;&nbsp;&nbsp;&nbsp;Development Embedded based Robotics to used as Rehabilitation robot
+&nbsp;&nbsp;&nbsp;&nbsp;Development Recommandation Algorithm using Deep Learning Methodology
 
 ## Education
 
