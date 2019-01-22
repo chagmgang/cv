@@ -65,11 +65,11 @@
 
 * [Generative Adversarial Imitation Learning](https://github.com/chagmgang/gail/tree/master/gail_cartpole)
 
-* [Distributional Perspective on Reinforcement Learning(C51)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
+* [Distributional Perspective on Reinforcement Learning(C51)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_code)
 
-* [Distributional Reinforcement Learning with Quantile Regression(QR-DQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
+* [Distributional Reinforcement Learning with Quantile Regression(QR-DQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_code)
 
-* [Implicit Quantile Networks for Distributional Reinforcement Learning(IQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_Only_Once)
+* [Implicit Quantile Networks for Distributional Reinforcement Learning(IQN)](https://github.com/reinforcement-learning-kr/distributional_rl/tree/master/Distributional_RL_code)
 
 * [PPO + Intrinsic Curiosity Modules](https://github.com/chagmgang/pytorch_ppo_rl)
 
