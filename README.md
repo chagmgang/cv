@@ -123,6 +123,8 @@
 
 * [Member of PG Travel](https://reinforcement-learning-kr.github.io/2018/06/29/0_pg-travel-guide/)
 
+* [Member of tensorflow_RL](https://github.com/RLOpensource/tensorflow_RL)
+
 ## Footage
 
 * (2010.03 ~ 2014.02), Pusan National University(부산대학교), Mechanical Engineering, Undergraduate              
@@ -176,3 +178,5 @@
 * 2018.11 - IBS
 
 * 2018.01 - Pytorch KR DevCon 2019
+
+* 2018.02 - AI friends
