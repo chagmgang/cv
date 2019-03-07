@@ -129,7 +129,10 @@
 
 * (2010.03 ~ 2014.02), Pusan National University(부산대학교), Mechanical Engineering, Undergraduate              
 
-* (2014.03 ~ 2016.02), Pusan National University(부산대학교), Mechanical Engineering, Robotics, Master Degree    
+* (2014.03 ~ 2016.02), Pusan National University(부산대학교), Mechanical Engineering, Robotics, Master Degree
+
+&nbsp;&nbsp;&nbsp;&nbsp;[http://mclab.me.pusan.ac.kr/mclab/index.do](http://mclab.me.pusan.ac.kr/mclab/index.do)
+
 
 * (2016.07 ~ 2017.03), Korea Institute of Industrial Technology(한국생산기술연구원), Researcher                
 
