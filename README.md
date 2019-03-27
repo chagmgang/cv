@@ -22,6 +22,8 @@
 
 * [Reinforcement Learning Framework Based on Tensorflow](https://github.com/RLOpensource/tensorflow_RL)
 
+* [OpenAI SpinningUp kr](https://github.com/RLOpensource/spinning_up_kr)
+
 ## Possess technology
 
 * Programming Language - Python, Javascript(Only React)
