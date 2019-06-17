@@ -79,6 +79,8 @@
 
 * [Relational Deep Reinforcement Learning](https://github.com/RLOpensource/Relational_Deep_Reinforcement_Learning)
 
+* [IMPALA-Scalable-Distributed-Deep-RL-with-Importance-Weighted-Actor-Learner-Architectures](https://github.com/RLOpensource/IMPALA-Scalable-Distributed-Deep-RL-with-Importance-Weighted-Actor-Learner-Architectures)
+
 #### Text(word, document) Embedding & Sequential Deep Learning
 
 * Word Embedding with [tensorflow](https://github.com/chagmgang/text_embedding_tensorflow/tree/master/word2vec), [gensim](https://github.com/chagmgang/konlpyDoc2vecNeuralNet)
