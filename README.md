@@ -191,3 +191,5 @@
 * 2018.01 - Pytorch KR DevCon 2019
 
 * 2018.02 - AI friends
+
+* 2019.06 - DeepReward 101
