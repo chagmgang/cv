@@ -18,7 +18,7 @@
 
 * Interested in : Reinforcement Learning, NLP with Deep Learning, Tensorflow Deploy
 
-* Another Github : [RLOpensource](https://github.com/RLOpensource)
+* Another Github : [RLOpensource](https://github.com/RLOpensource), [AlphaStarKor](https://github.com/alphastarkor)
 
 ## OpenSource Project
 
