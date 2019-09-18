@@ -195,3 +195,5 @@
 * 2019.06 - DeepReward 101
 
 * 2019.07 - DLCAT 2nd
+
+* 2019.08 - DeepReward 101
