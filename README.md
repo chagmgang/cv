@@ -174,6 +174,8 @@
 
 * [A Study on Deep Learning Based Sauvegrain Method for Measurement of Puberty Bone Age](https://arxiv.org/abs/1809.06965)
 
+* [Performance of Recommender Systems: Based on Content Navigator and Collaborative Filtering(https://arxiv.org/pdf/1909.08219.pdf)
+
 ## Talk
 
 * 2018.06 - DLCAT 1st
