@@ -199,3 +199,5 @@
 * 2019.07 - DLCAT 2nd
 
 * 2019.08 - DeepReward 101
+
+* 2019.09 - Babel TOP
