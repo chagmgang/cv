@@ -79,7 +79,7 @@
 
 * [Relational Deep Reinforcement Learning](https://github.com/RLOpensource/Relational_Deep_Reinforcement_Learning)
 
-* [IMPALA-Scalable-Distributed-Deep-RL-with-Importance-Weighted-Actor-Learner-Architectures](https://github.com/RLOpensource/IMPALA-Scalable-Distributed-Deep-RL-with-Importance-Weighted-Actor-Learner-Architectures)
+* [IMPALA-Scalable-Distributed-Deep-RL-with-Importance-Weighted-Actor-Learner-Architectures](https://github.com/RLOpensource/IMPALA-Distributed-Tensorflow)
 
 #### Text(word, document) Embedding & Sequential Deep Learning
 
