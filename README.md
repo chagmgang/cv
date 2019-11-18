@@ -150,7 +150,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Development Embedded based IOT machines(Embedded Design, Programming, Data Collections)
 
-* (2018.01 ~ ), Plani, Researcher  
+* (2018.01 ~ ), Nerdfactory, Researcher  
 
 &nbsp;&nbsp;&nbsp;&nbsp;Development Recommandation Algorithm using Deep Learning Methodology
 
