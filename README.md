@@ -28,11 +28,11 @@
 
 ## Possess technology
 
-* Programming Language - Python, Javascript(Only React)
+* Programming Language - Python, Javascript(Only React), Go
 
-* Framework - Django, Tensorflow, Pytorch, React
+* Framework - Django, Tensorflow, Pytorch, React.js
 
-* DevOps - Github, Bitbucket
+* DevOps - Github, Bitbucket, Gitlab
 
 * Server - MySQL, tensorflow_model_server
 
