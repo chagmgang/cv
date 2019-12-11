@@ -12,8 +12,6 @@
 
 * Email : chagmgang@gmail.com
 
-* Phone : 010-3883-5964
-
 * Community Activated at : RL Korea, Tensorflow-KR, Kaggle Korea
 
 * Interested in : Reinforcement Learning, NLP with Deep Learning, Tensorflow Deploy
