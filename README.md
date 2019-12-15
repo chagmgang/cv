@@ -203,3 +203,5 @@
 * 2019.11 - [공개SW개발자센터] 연합 커뮤니티 행사<Effective TensorFlow 2.0>
 
 * 2019.11 - 딥리워드(IMPALA Implementation)
+
+* 2019.12 - Global AI BootCamp in Busan
