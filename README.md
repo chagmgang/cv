@@ -148,9 +148,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Development Embedded based IOT machines(Embedded Design, Programming, Data Collections)
 
-* (2018.01 ~ ), Nerdfactory, Researcher  
+* (2018.01 ~ 2019.12), Nerdfactory, Researcher  
 
 &nbsp;&nbsp;&nbsp;&nbsp;Development Recommandation Algorithm using Deep Learning Methodology
+
+* (2020.01 ~ ), Satreci, Research Engineer
 
 ## Education
 
