@@ -207,3 +207,5 @@
 * 2019.11 - 딥리워드(IMPALA Implementation)
 
 * 2019.12 - Global AI BootCamp in Busan
+
+* 2020.02 - 설명 가능한 인공지능 [eXplainable AI, XAI] 개발과 산업별 적용방안
