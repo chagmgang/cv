@@ -160,7 +160,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;Development Recommandation Algorithm using Deep Learning Methodology
 
-* (2020.01 ~ ), Satreci, Research Engineer
+* (2020.01 ~ 2021.06), Satreci, Research Engineer
+
+* (2021.06 ~ ) SI Aanalytics, Machine Learning Engineer
 
 ## Education
 
