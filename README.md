@@ -24,13 +24,17 @@
 
 * [OpenAI SpinningUp kr](https://github.com/RLOpensource/spinning_up_kr)
 
+* 
+
 ## Possess technology
 
 * Programming Language - Python, Javascript(Only React), Go
 
 * Framework - Django, Tensorflow, Pytorch, React.js
 
-* DevOps - Github, Bitbucket, Gitlab
+* DevOps - Kubernetes, Azure Devops, Azure Pipeline
+
+* MLOps - Airflow, Mlflow
 
 * Server - MySQL, tensorflow_model_server
 
@@ -40,6 +44,10 @@
 ## Project
 
 ### Paper Implementation
+
+#### Distributed Reinforcement Learning
+
+* [IMPALA, R2D2, Apex](https://github.com/chagmgang/distributed_reinforcement_learning)
 
 #### Reinforcement Learning with tensorflow
 
@@ -175,6 +183,31 @@
 * [A Study on Deep Learning Based Sauvegrain Method for Measurement of Puberty Bone Age](https://arxiv.org/abs/1809.06965)
 
 * [Performance of Recommender Systems: Based on Content Navigator and Collaborative Filtering](https://arxiv.org/pdf/1909.08219.pdf)
+
+* [Contrastive Multiview Coding with Electro-optics for SAR Semantic Segmentation](https://arxiv.org/abs/2109.00120)
+
+* [RAIN-F+: The data-driven precipitation prediction model for
+integrated weather observations](https://www.mdpi.com/2072-4292/13/18/3627)
+
+* [RAIN-F: A fusion dataset for rainfall prediction using convolutional neural network](https://ieeexplore.ieee.org/document/9555094)
+
+* Predicting quantitative precipitation from global precipitation measurements using deep neural networks
+
+## Competition
+
+* 2nd, HAAFOR Challenge 2020
+
+## Article
+
+* [세상에서 가장 간단한 Airflow 튜토리얼](https://blog.si-analytics.ai/59?category=894442)
+
+* [Pytorch와 TensorRT를 이용한 딥 러닝 추론 최적화](https://blog.si-analytics.ai/33?category=894442)
+
+* [Pytorch를 TensorRT로 변환하기 위한 환경 설정](https://blog.si-analytics.ai/32?category=894442)
+
+* [Horovod 모듈 사용하여 Pytorch Multi GPU 학습 효율적으로 하기](https://blog.si-analytics.ai/22?category=894442)
+
+* [Multi GPU with Pytorch (DistributedDataParallel)](https://blog.si-analytics.ai/12?category=894442)
 
 ## Talk
 
