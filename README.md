@@ -24,7 +24,7 @@
 
 * [OpenAI SpinningUp kr](https://github.com/RLOpensource/spinning_up_kr)
 
-* 
+* [self supervised learning](https://github.com/chagmgang/selfsup_openrep)
 
 ## Possess technology
 
