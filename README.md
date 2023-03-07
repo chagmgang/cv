@@ -49,9 +49,7 @@
 
 * [Self supervised learning framework](https://github.com/chagmgang/selfsup_openrep)
 
-With 160 A100 GPU, generating remote sensing foundation model
-  
-
+With 160 A100 GPU, generating remote sensing foundation model.
 
 ### Paper Implementation
 
