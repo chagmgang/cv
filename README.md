@@ -8,13 +8,15 @@
 
 * Facebook : https://www.facebook.com/profile.php?id=100002147815509
 
-* blog : [https://chagmgang.github.io](https://chagmgang.github.io)
-
 * Email : chagmgang@gmail.com
+
+* Google Scholar : https://scholar.google.com/citations?user=tLYtx20AAAAJ&hl=ko
+
+* Linkedin : https://www.linkedin.com/in/keumgang-cha-58100b227/
 
 * Community Activated at : RL Korea, Tensorflow-KR, Kaggle Korea
 
-* Interested in : Reinforcement Learning, NLP with Deep Learning, Tensorflow Deploy
+* Interested in : Remote Sensing, Computer Vision, Foundation Model, Large Scale Deep Learning Model
 
 * Another Github : [RLOpensource](https://github.com/RLOpensource), [AlphaStarKor](https://github.com/alphastarkor)
 
@@ -42,6 +44,14 @@
 
 
 ## Project
+
+### Remote sensing oriented Foundation Model
+
+* [Self supervised learning framework](https://github.com/chagmgang/selfsup_openrep)
+
+With 160 A100 GPU, generating remote sensing foundation model
+  
+
 
 ### Paper Implementation
 
